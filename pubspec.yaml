@@ -1,0 +1,14 @@
+name: nomisal_ui
+description: An application to integrate dart ui in nomisal style
+version: 0.0.1
+repository: https://github.com/nomagicisreal/nomisal_ui
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
